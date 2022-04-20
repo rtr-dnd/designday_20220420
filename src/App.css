@@ -11,8 +11,8 @@
   background-color: #aaa;
   border-radius: 8px;
   padding: 24px 32px;
-  border: 1px solid;
-  border-color: #f0efed;
+  /* border: 1px solid; */
+  /* border-color: #f0efed; */
   transition: 0.1s ease;
   position: relative;
   width: 30%;
